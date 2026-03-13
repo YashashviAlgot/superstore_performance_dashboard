@@ -50,7 +50,7 @@ Dataset Source: Kaggle Sample-Superstore Dataset
 ---
 📸 Dashboard Preview
 Dashboard Preview
-![Dashboard Preview](Dashboard_preview.png)
+![Dashboard Preview](Dadhboard_preview.png)
 
 ---
 

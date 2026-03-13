@@ -48,6 +48,11 @@ Dataset Source: Kaggle Sample-Superstore Dataset
 * Interactive Filters and Slicers
 
 ---
+📸 Dashboard Preview
+Dashboard Preview
+![Dashboard Preview](Dashboard_preview.png)
+
+---
 
 🔍 Key Insights
 

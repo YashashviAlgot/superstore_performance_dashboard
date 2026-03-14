@@ -24,7 +24,8 @@ The dataset used in this project contains information about:
 * Product categories
 * Regional performance
 
-Dataset Source: Kaggle Sample-Superstore Dataset
+Dataset Source: Kaggle 
+https://www.kaggle.com/datasets/bitricks/superstore-dataset
 
 ---
 

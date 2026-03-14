@@ -25,6 +25,7 @@ The dataset used in this project contains information about:
 * Regional performance
 
 Dataset Source: Kaggle 
+Superstore Dataset
 https://www.kaggle.com/datasets/bitricks/superstore-dataset
 
 ---
@@ -50,7 +51,7 @@ https://www.kaggle.com/datasets/bitricks/superstore-dataset
 
 ---
 📸 Dashboard Preview
-Dashboard Preview
+
 ![Dashboard Preview](Dadhboard_preview.png)
 
 ---
